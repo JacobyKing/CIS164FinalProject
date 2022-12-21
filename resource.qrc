@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/black_horse_first_position.png</file>
+        <file>Images/black_horse_second_position.png</file>
+        <file>Images/blue_horse_first_position.png</file>
+        <file>Images/blue_horse_second_position.png</file>
+        <file>Images/slot-machine-diamond.png</file>
+        <file>Images/slot-machine-spade.png</file>
+        <file>Images/white_horse_first_position.png</file>
+        <file>Images/white_horse_second_position.png</file>
+        <file>Images/yellow_horse_first_position.png</file>
+        <file>Images/yellow_horse_second_position.png</file>
+        <file>Images/slot-machine-heart.png</file>
+        <file>Images/slot-machine-club.png</file>
+        <file>Images/slot-machine-chip.png</file>
+        <file>Images/slot-machine-coin.png</file>
+        <file>Images/slot-machine-dice.png</file>
+        <file>Images/slot-machine-win.png</file>
+    </qresource>
+</RCC>
